@@ -33,7 +33,7 @@ Each module (Auth, User, etc.) contains its own endpoint explanation.
 **1. Clone this project using this command**
 
 ```bash
-$ git clone https://github.com/Ann0solf/Laravel-REST-API-Learning
+$ git clone https://github.com/Ann0solf/laravel-api-learning-path
 ```
 
 or
