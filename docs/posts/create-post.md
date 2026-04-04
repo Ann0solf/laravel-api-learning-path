@@ -18,7 +18,7 @@ Authorization: Bearer {your_access_token_here}
 
 **Content-Type:** `multipart/form-data`
 
-> [!Note]:
+> \[!NOTE]
 > Do not send `application/json`. Because this endpoint accepts image files, you must use `multipart/form-data`. If you use JSON, the image upload will fail.
 
 | Field          | Type    | Rules                                           | Description                                                                       |
